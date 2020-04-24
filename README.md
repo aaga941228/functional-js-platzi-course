@@ -1,3 +1,3 @@
 # Functional-js-platzi-course
 
-##A simple calories counter
+## A simple calories counter
